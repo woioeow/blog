@@ -3,11 +3,11 @@
   <title>woioeow is blog</title>
   
   
-  <link href="http://woioeow.top/atom.xml" rel="self"/>
+  <link href="http://www.woioeow.top/atom.xml" rel="self"/>
   
-  <link href="http://woioeow.top/"/>
+  <link href="http://www.woioeow.top/"/>
   <updated>2025-02-09T05:44:52.000Z</updated>
-  <id>http://woioeow.top/</id>
+  <id>http://www.woioeow.top/</id>
   
   <author>
     <name>woioeow</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>fluid 主题优化</title>
-    <link href="http://woioeow.top/2025/02/07/fluid%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/"/>
-    <id>http://woioeow.top/2025/02/07/fluid%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/</id>
+    <link href="http://www.woioeow.top/2025/02/07/fluid%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/"/>
+    <id>http://www.woioeow.top/2025/02/07/fluid%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/</id>
     <published>2025-02-07T07:33:07.000Z</published>
     <updated>2025-02-09T05:44:52.000Z</updated>
     
@@ -36,19 +36,19 @@
     
     
     
-    <category term="Fluid" scheme="http://woioeow.top/categories/Fluid/"/>
+    <category term="Fluid" scheme="http://www.woioeow.top/categories/Fluid/"/>
     
     
-    <category term="Fluid 主题" scheme="http://woioeow.top/tags/Fluid-%E4%B8%BB%E9%A2%98/"/>
+    <category term="Fluid 主题" scheme="http://www.woioeow.top/tags/Fluid-%E4%B8%BB%E9%A2%98/"/>
     
-    <category term="主题优化" scheme="http://woioeow.top/tags/%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/"/>
+    <category term="主题优化" scheme="http://www.woioeow.top/tags/%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>Github 部署 Hexo 添加 README 文件</title>
-    <link href="http://woioeow.top/2025/01/10/Github%E9%83%A8%E7%BD%B2Hexo%E6%B7%BB%E5%8A%A0README%E6%96%87%E4%BB%B6/"/>
-    <id>http://woioeow.top/2025/01/10/Github%E9%83%A8%E7%BD%B2Hexo%E6%B7%BB%E5%8A%A0README%E6%96%87%E4%BB%B6/</id>
+    <link href="http://www.woioeow.top/2025/01/10/Github%E9%83%A8%E7%BD%B2Hexo%E6%B7%BB%E5%8A%A0README%E6%96%87%E4%BB%B6/"/>
+    <id>http://www.woioeow.top/2025/01/10/Github%E9%83%A8%E7%BD%B2Hexo%E6%B7%BB%E5%8A%A0README%E6%96%87%E4%BB%B6/</id>
     <published>2025-01-10T09:57:05.000Z</published>
     <updated>2025-01-10T09:57:05.000Z</updated>
     
@@ -64,21 +64,21 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Github" scheme="http://woioeow.top/tags/Github/"/>
+    <category term="Github" scheme="http://www.woioeow.top/tags/Github/"/>
     
-    <category term="Hexo" scheme="http://woioeow.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.woioeow.top/tags/Hexo/"/>
     
-    <category term="README" scheme="http://woioeow.top/tags/README/"/>
+    <category term="README" scheme="http://www.woioeow.top/tags/README/"/>
     
   </entry>
   
   <entry>
     <title>fluid 主题配置</title>
-    <link href="http://woioeow.top/2025/01/09/fluid%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
-    <id>http://woioeow.top/2025/01/09/fluid%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</id>
+    <link href="http://www.woioeow.top/2025/01/09/fluid%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+    <id>http://www.woioeow.top/2025/01/09/fluid%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</id>
     <published>2025-01-09T02:21:18.000Z</published>
     <updated>2025-01-09T02:21:18.000Z</updated>
     
@@ -92,21 +92,21 @@
     
     
     
-    <category term="Fluid" scheme="http://woioeow.top/categories/Fluid/"/>
+    <category term="Fluid" scheme="http://www.woioeow.top/categories/Fluid/"/>
     
     
-    <category term="Hexo" scheme="http://woioeow.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.woioeow.top/tags/Hexo/"/>
     
-    <category term="fluid" scheme="http://woioeow.top/tags/fluid/"/>
+    <category term="fluid" scheme="http://www.woioeow.top/tags/fluid/"/>
     
-    <category term="主题配置" scheme="http://woioeow.top/tags/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+    <category term="主题配置" scheme="http://www.woioeow.top/tags/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
   <entry>
     <title>PowerShell7</title>
-    <link href="http://woioeow.top/2025/01/06/Powershell7/"/>
-    <id>http://woioeow.top/2025/01/06/Powershell7/</id>
+    <link href="http://www.woioeow.top/2025/01/06/Powershell7/"/>
+    <id>http://www.woioeow.top/2025/01/06/Powershell7/</id>
     <published>2025-01-06T15:30:36.000Z</published>
     <updated>2025-01-06T15:30:36.000Z</updated>
     
@@ -121,17 +121,17 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Powershell7" scheme="http://woioeow.top/tags/Powershell7/"/>
+    <category term="Powershell7" scheme="http://www.woioeow.top/tags/Powershell7/"/>
     
   </entry>
   
   <entry>
     <title>NuShell</title>
-    <link href="http://woioeow.top/2025/01/06/nushell/"/>
-    <id>http://woioeow.top/2025/01/06/nushell/</id>
+    <link href="http://www.woioeow.top/2025/01/06/nushell/"/>
+    <id>http://www.woioeow.top/2025/01/06/nushell/</id>
     <published>2025-01-06T15:29:36.000Z</published>
     <updated>2025-01-06T15:29:36.000Z</updated>
     
@@ -147,17 +147,17 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="NuShell" scheme="http://woioeow.top/tags/NuShell/"/>
+    <category term="NuShell" scheme="http://www.woioeow.top/tags/NuShell/"/>
     
   </entry>
   
   <entry>
     <title>U 盘 EFI 分区删除</title>
-    <link href="http://woioeow.top/2025/01/06/u%E7%9B%98EFI%E5%88%86%E5%8C%BA%E5%88%A0%E9%99%A4/"/>
-    <id>http://woioeow.top/2025/01/06/u%E7%9B%98EFI%E5%88%86%E5%8C%BA%E5%88%A0%E9%99%A4/</id>
+    <link href="http://www.woioeow.top/2025/01/06/u%E7%9B%98EFI%E5%88%86%E5%8C%BA%E5%88%A0%E9%99%A4/"/>
+    <id>http://www.woioeow.top/2025/01/06/u%E7%9B%98EFI%E5%88%86%E5%8C%BA%E5%88%A0%E9%99%A4/</id>
     <published>2025-01-06T15:26:08.000Z</published>
     <updated>2025-01-06T15:26:08.000Z</updated>
     
@@ -172,19 +172,19 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="U 盘" scheme="http://woioeow.top/tags/U-%E7%9B%98/"/>
+    <category term="U 盘" scheme="http://www.woioeow.top/tags/U-%E7%9B%98/"/>
     
-    <category term="EFI 分区" scheme="http://woioeow.top/tags/EFI-%E5%88%86%E5%8C%BA/"/>
+    <category term="EFI 分区" scheme="http://www.woioeow.top/tags/EFI-%E5%88%86%E5%8C%BA/"/>
     
   </entry>
   
   <entry>
     <title>SSH 使用</title>
-    <link href="http://woioeow.top/2025/01/06/ssh%E4%BD%BF%E7%94%A8/"/>
-    <id>http://woioeow.top/2025/01/06/ssh%E4%BD%BF%E7%94%A8/</id>
+    <link href="http://www.woioeow.top/2025/01/06/ssh%E4%BD%BF%E7%94%A8/"/>
+    <id>http://www.woioeow.top/2025/01/06/ssh%E4%BD%BF%E7%94%A8/</id>
     <published>2025-01-06T15:25:19.000Z</published>
     <updated>2025-01-06T15:25:19.000Z</updated>
     
@@ -198,17 +198,17 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="ssh" scheme="http://woioeow.top/tags/ssh/"/>
+    <category term="ssh" scheme="http://www.woioeow.top/tags/ssh/"/>
     
   </entry>
   
   <entry>
     <title>WSL2 安装配置</title>
-    <link href="http://woioeow.top/2025/01/05/Wsl2%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/"/>
-    <id>http://woioeow.top/2025/01/05/Wsl2%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</id>
+    <link href="http://www.woioeow.top/2025/01/05/Wsl2%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/"/>
+    <id>http://www.woioeow.top/2025/01/05/Wsl2%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/</id>
     <published>2025-01-05T15:42:53.000Z</published>
     <updated>2025-02-07T09:15:38.000Z</updated>
     
@@ -225,23 +225,23 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Windows" scheme="http://woioeow.top/tags/Windows/"/>
+    <category term="Arch" scheme="http://www.woioeow.top/tags/Arch/"/>
     
-    <category term="Arch" scheme="http://woioeow.top/tags/Arch/"/>
+    <category term="Linux" scheme="http://www.woioeow.top/tags/Linux/"/>
     
-    <category term="Linux" scheme="http://woioeow.top/tags/Linux/"/>
+    <category term="Windows" scheme="http://www.woioeow.top/tags/Windows/"/>
     
-    <category term="WSL2" scheme="http://woioeow.top/tags/WSL2/"/>
+    <category term="WSL2" scheme="http://www.woioeow.top/tags/WSL2/"/>
     
   </entry>
   
   <entry>
     <title>Linux 上 VSCode.tar.gz 安装 VSCode</title>
-    <link href="http://woioeow.top/2025/01/05/Linux%E4%B8%8AVSCode-tar-gz%E5%AE%89%E8%A3%85VSCode/"/>
-    <id>http://woioeow.top/2025/01/05/Linux%E4%B8%8AVSCode-tar-gz%E5%AE%89%E8%A3%85VSCode/</id>
+    <link href="http://www.woioeow.top/2025/01/05/Linux%E4%B8%8AVSCode-tar-gz%E5%AE%89%E8%A3%85VSCode/"/>
+    <id>http://www.woioeow.top/2025/01/05/Linux%E4%B8%8AVSCode-tar-gz%E5%AE%89%E8%A3%85VSCode/</id>
     <published>2025-01-05T15:42:46.000Z</published>
     <updated>2025-02-07T09:19:40.000Z</updated>
     
@@ -259,21 +259,21 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Linux" scheme="http://woioeow.top/tags/Linux/"/>
+    <category term="Linux" scheme="http://www.woioeow.top/tags/Linux/"/>
     
-    <category term="tar.gz" scheme="http://woioeow.top/tags/tar-gz/"/>
+    <category term="tar.gz" scheme="http://www.woioeow.top/tags/tar-gz/"/>
     
-    <category term="vscode" scheme="http://woioeow.top/tags/vscode/"/>
+    <category term="vscode" scheme="http://www.woioeow.top/tags/vscode/"/>
     
   </entry>
   
   <entry>
     <title>Git 本地远程推送</title>
-    <link href="http://woioeow.top/2025/01/05/Git%E6%9C%AC%E5%9C%B0%E8%BF%9C%E7%A8%8B%E6%8E%A8%E9%80%81/"/>
-    <id>http://woioeow.top/2025/01/05/Git%E6%9C%AC%E5%9C%B0%E8%BF%9C%E7%A8%8B%E6%8E%A8%E9%80%81/</id>
+    <link href="http://www.woioeow.top/2025/01/05/Git%E6%9C%AC%E5%9C%B0%E8%BF%9C%E7%A8%8B%E6%8E%A8%E9%80%81/"/>
+    <id>http://www.woioeow.top/2025/01/05/Git%E6%9C%AC%E5%9C%B0%E8%BF%9C%E7%A8%8B%E6%8E%A8%E9%80%81/</id>
     <published>2025-01-05T15:42:39.000Z</published>
     <updated>2025-02-07T09:21:02.000Z</updated>
     
@@ -287,17 +287,17 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Git" scheme="http://woioeow.top/tags/Git/"/>
+    <category term="Git" scheme="http://www.woioeow.top/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Docker 安装 Windows</title>
-    <link href="http://woioeow.top/2025/01/05/Docker%E5%AE%89%E8%A3%85Windows/"/>
-    <id>http://woioeow.top/2025/01/05/Docker%E5%AE%89%E8%A3%85Windows/</id>
+    <link href="http://www.woioeow.top/2025/01/05/Docker%E5%AE%89%E8%A3%85Windows/"/>
+    <id>http://www.woioeow.top/2025/01/05/Docker%E5%AE%89%E8%A3%85Windows/</id>
     <published>2025-01-05T15:42:30.000Z</published>
     <updated>2025-02-07T09:22:08.000Z</updated>
     
@@ -312,19 +312,19 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Docker" scheme="http://woioeow.top/tags/Docker/"/>
+    <category term="Docker" scheme="http://www.woioeow.top/tags/Docker/"/>
     
-    <category term="Windows" scheme="http://woioeow.top/tags/Windows/"/>
+    <category term="Windows" scheme="http://www.woioeow.top/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Arch、Hyprland 实体机全安装教程</title>
-    <link href="http://woioeow.top/2025/01/05/Arch%E3%80%81Hyprland%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%85%A8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
-    <id>http://woioeow.top/2025/01/05/Arch%E3%80%81Hyprland%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%85%A8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</id>
+    <link href="http://www.woioeow.top/2025/01/05/Arch%E3%80%81Hyprland%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%85%A8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    <id>http://www.woioeow.top/2025/01/05/Arch%E3%80%81Hyprland%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%85%A8%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</id>
     <published>2025-01-05T15:42:21.000Z</published>
     <updated>2025-02-07T10:01:08.000Z</updated>
     
@@ -338,14 +338,14 @@
     
     
     
-    <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Arch" scheme="http://woioeow.top/tags/Arch/"/>
+    <category term="Arch" scheme="http://www.woioeow.top/tags/Arch/"/>
     
-    <category term="Linux" scheme="http://woioeow.top/tags/Linux/"/>
+    <category term="Linux" scheme="http://www.woioeow.top/tags/Linux/"/>
     
-    <category term="Hyprland" scheme="http://woioeow.top/tags/Hyprland/"/>
+    <category term="Hyprland" scheme="http://www.woioeow.top/tags/Hyprland/"/>
     
   </entry>
   
