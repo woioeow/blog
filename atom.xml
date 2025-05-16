@@ -228,13 +228,13 @@
     <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Windows" scheme="http://woioeow.top/tags/Windows/"/>
-    
     <category term="Arch" scheme="http://woioeow.top/tags/Arch/"/>
     
     <category term="Linux" scheme="http://woioeow.top/tags/Linux/"/>
     
     <category term="WSL2" scheme="http://woioeow.top/tags/WSL2/"/>
+    
+    <category term="Windows" scheme="http://woioeow.top/tags/Windows/"/>
     
   </entry>
   
@@ -315,9 +315,9 @@
     <category term="笔记" scheme="http://woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Docker" scheme="http://woioeow.top/tags/Docker/"/>
-    
     <category term="Windows" scheme="http://woioeow.top/tags/Windows/"/>
+    
+    <category term="Docker" scheme="http://woioeow.top/tags/Docker/"/>
     
   </entry>
   
