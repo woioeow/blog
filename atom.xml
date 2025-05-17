@@ -228,11 +228,11 @@
     <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Arch" scheme="http://www.woioeow.top/tags/Arch/"/>
+    <category term="Windows" scheme="http://www.woioeow.top/tags/Windows/"/>
     
     <category term="Linux" scheme="http://www.woioeow.top/tags/Linux/"/>
     
-    <category term="Windows" scheme="http://www.woioeow.top/tags/Windows/"/>
+    <category term="Arch" scheme="http://www.woioeow.top/tags/Arch/"/>
     
     <category term="WSL2" scheme="http://www.woioeow.top/tags/WSL2/"/>
     
@@ -341,9 +341,9 @@
     <category term="笔记" scheme="http://www.woioeow.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Arch" scheme="http://www.woioeow.top/tags/Arch/"/>
-    
     <category term="Linux" scheme="http://www.woioeow.top/tags/Linux/"/>
+    
+    <category term="Arch" scheme="http://www.woioeow.top/tags/Arch/"/>
     
     <category term="Hyprland" scheme="http://www.woioeow.top/tags/Hyprland/"/>
     
