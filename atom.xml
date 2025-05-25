@@ -228,11 +228,11 @@
     <category term="笔记" scheme="https://blog.woioeow.com/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="Windows" scheme="https://blog.woioeow.com/tags/Windows/"/>
-    
     <category term="Arch" scheme="https://blog.woioeow.com/tags/Arch/"/>
     
     <category term="Linux" scheme="https://blog.woioeow.com/tags/Linux/"/>
+    
+    <category term="Windows" scheme="https://blog.woioeow.com/tags/Windows/"/>
     
     <category term="WSL2" scheme="https://blog.woioeow.com/tags/WSL2/"/>
     
