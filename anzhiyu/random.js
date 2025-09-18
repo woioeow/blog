@@ -1,3 +1,3 @@
-var posts=["2025/09/05/Arch、Hyprland实体机全安装教程/","2025/01/05/Linux上VSCode-tar-gz安装VSCode/","2025/01/10/Github部署Hexo添加README文件/","2025/01/05/Docker安装Windows/","2025/02/07/Fluid主题优化/","2025/01/05/Git本地远程推送/","2025/01/06/NuShell/","2025/01/09/Fluid主题配置/","2025/01/06/SSH使用/","2025/01/06/PowerShell7/","2025/01/05/WSL2安装配置/","2025/01/06/U盘EFI分区删除/","2025/09/18/hello-world/"];function toRandomPost(){
+var posts=["2025/01/05/Docker安装Windows/","2025/02/07/Fluid主题优化/","2025/09/05/Arch、Hyprland实体机全安装教程/","2025/01/10/Github部署Hexo添加README文件/","2025/01/05/Git本地远程推送/","2025/01/05/Linux上VSCode-tar-gz安装VSCode/","2025/01/09/Fluid主题配置/","2025/01/06/PowerShell7/","2025/01/06/U盘EFI分区删除/","2025/01/06/NuShell/","2025/01/06/SSH使用/","2025/01/05/WSL2安装配置/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
